@@ -1,4 +1,5 @@
-<img src="https://www.canva.com/design/DAGm68Uc0yI/grGOIE279UvVzURWKslauQ/view?utm_content=DAGm68Uc0yI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8eb5f5d5a2" alt="GitHub Banner" width="100%" />
+<img src=![Black Modern Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/78e5741c-a38d-4dfa-85a9-25a5b423c38f)
+ width="100%" />
 
 ## Hi there 👋 I am Madhesh
 
