@@ -1,5 +1,4 @@
-<img src=![Black Modern Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/78e5741c-a38d-4dfa-85a9-25a5b423c38f)
- width="100%" />
+![Black Modern Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/78e5741c-a38d-4dfa-85a9-25a5b423c38f)
 
 ## Hi there 👋 I am Madhesh
 
