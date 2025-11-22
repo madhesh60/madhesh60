@@ -3,8 +3,7 @@
 # 👋 Hi there, I'm **Madhesh**
 
 ### Information Technology Student
-AI/ML • Development  • DevOps • Blockchain  
-<img align="right" width="360" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+AI/ML • Development  • DevOps • Blockchain <img align="right" width="360" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 Engineering end-to-end solutions across **AI**, **automation**, **web development**, and **DevOps**.  
 Deeply focused on building systems that are **fast**, **scalable**, and **production-ready**.
