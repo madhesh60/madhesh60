@@ -24,11 +24,7 @@ Learning in public. Shipping often. Exploring open-source.
 # 🧠 Tech & Tools
 
 ## 💻 **Languages**
-<img height="50" src="https://img.icons8.com/color/48/python.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/html-5.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/css3.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/javascript.png"/>
+<img height="50" src="https://img.icons8.com/color/48/python.png"/> <img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/javascript.png"/>
 
 ---
 
@@ -44,14 +40,7 @@ Learning in public. Shipping often. Exploring open-source.
 ---
 
 ## 🐳 **DevOps & Cloud**
-<img height="45" src="https://img.icons8.com/color/48/docker.png"/>  
-<img height="50" src="https://img.icons8.com/color/48/kubernetes.png"/>
-<img height="50" src="https://img.icons8.com/color/48/github.png"/>
-<img height="50" src="https://img.icons8.com/ios-filled/50/000000/argo.png"/>
-<img height="50" src="https://img.icons8.com/color/48/npm.png"/>
-<img height="45" src="https://img.icons8.com/color/48/git.png"/>  
-<img height="45" src="https://img.icons8.com/color/48/console.png"/>  
-<img height="45" src="https://img.icons8.com/color/48/amazon-web-services.png"/>  
+<img height="45" src="https://img.icons8.com/color/48/docker.png"/>  <img height="50" src="https://img.icons8.com/color/48/kubernetes.png"/><img height="50" src="https://img.icons8.com/color/48/github.png"/><img height="50" src="https://img.icons8.com/ios-filled/50/000000/argo.png"/><img height="50" src="https://img.icons8.com/color/48/npm.png"/><img height="45" src="https://img.icons8.com/color/48/git.png"/>  <img height="45" src="https://img.icons8.com/color/48/console.png"/>  <img height="45" src="https://img.icons8.com/color/48/amazon-web-services.png"/>  
 
 - Docker containers & images  
 - CI/CD fundamentals  
