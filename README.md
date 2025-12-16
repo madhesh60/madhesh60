@@ -12,23 +12,23 @@ Learning in public. Shipping often. Exploring open-source.
 
 ---
 
-## 🚀 What I'm Doing Right Now
-- 🔥 Leveling up in **DSA**, **Java**, algorithms, and backend engineering  
-- 🤖 Building AI automation workflows using agents & prompt-driven pipelines  
-- 🛠 Developing full-stack systems using React, Node.js, Express, MongoDB  
-- 🧱 Architecting DevOps pipelines & containerized deployments   
-- 🌱 Active in open-source communities, contributing small tools & utilities  
+##  What I'm Doing Right Now
+- Leveling up in **DSA**, **Java**, algorithms, and backend engineering  
+- Building AI automation workflows using agents & prompt-driven pipelines  
+- Developing full-stack systems using React, Node.js, Express, MongoDB  
+- Architecting DevOps pipelines & containerized deployments   
+- Active in open-source communities, contributing small tools & utilities  
 
 ---
 
-# 🧠 Tech & Tools
+#  Tech & Tools
 
-## 💻 **Languages**
+## **Languages**
 <img height="50" src="https://img.icons8.com/color/48/python.png"/> <img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/javascript.png"/>
 
 ---
 
-## 🏗 **Frameworks / Libraries**
+## **Frameworks / Libraries**
 - React.js  
 - Node.js  
 - Express.js  
@@ -39,7 +39,7 @@ Learning in public. Shipping often. Exploring open-source.
 
 ---
 
-## 🐳 **DevOps & Cloud**
+## **DevOps & Cloud**
 <img height="45" src="https://img.icons8.com/color/48/docker.png"/>  <img height="50" src="https://img.icons8.com/color/48/kubernetes.png"/><img height="50" src="https://img.icons8.com/color/48/github.png"/><img height="50" src="https://img.icons8.com/ios-filled/50/000000/argo.png"/><img height="50" src="https://img.icons8.com/color/48/npm.png"/><img height="45" src="https://img.icons8.com/color/48/git.png"/>  <img height="45" src="https://img.icons8.com/color/48/console.png"/>  <img height="45" src="https://img.icons8.com/color/48/amazon-web-services.png"/>  
 
 - Docker containers & images  
@@ -50,7 +50,7 @@ Learning in public. Shipping often. Exploring open-source.
 
 ---
 
-## 🔗 **Blockchain Work**
+## **Blockchain Work**
 - Solidity smart contracts (loan requests, events, eligibility rules)  
 - Hardhat development environment  
 - IPFS for document proofs  
@@ -60,27 +60,25 @@ Learning in public. Shipping often. Exploring open-source.
 
 ---
 
-## 📦 Featured Projects
+## Featured Projects
 
 
-### 🔗 **Polkadot Multi-Chain Data Ingestion & Monitoring System**  
+### **Polkadot Multi-Chain Data Ingestion & Monitoring System**  
 - Connects to multiple blockchains using RPC nodes  
-- Automatically listens to **new blocks, events, and on-chain messages**  
-- Stores data efficiently using **IPFS instead of old databases**  
+- Automatically listens to **new blocks, events, and on-chain messages**   
 - Real-time **event-driven workflows** for alerts & automation  
 - Rust + Node.js backend for fast processing  
 - Beautiful **frontend dashboard** to visualize chain activity  
-- Secure APIs for developers to fetch chain data  
 - Easy deployment with Docker + scripts included
 
-### 🧩 **Baseline Browser Checker (VS Code Extension)**  
+###  **Baseline Browser Checker (VS Code Extension)**  
 - Highlights non-baseline HTML/CSS/JS features  
 - In-editor diagnostics  
 - Aiming to support developers targeting modern compatibility  
 
 ---
 
-## 📦 What i am building
+##  What i am building
 
 
 ### 🔗 **Blockchain Loan Automation**  
@@ -92,7 +90,7 @@ Learning in public. Shipping often. Exploring open-source.
 
 ---
 
-# 📚 Learning in Public
+#  Learning in Public
 I consistently document progress across:
 - AI workflow engineering  
 - DevOps practices  
@@ -104,12 +102,12 @@ This keeps me accountable — and helps others learn from the journey.
 
 ---
 
-# 📈 LeetCode Stats
+#  LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/madheshcode7?theme=dark&font=Nokora&ext=activity)
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 - 🔗 **GitHub:** [madhesh60](https://github.com/madhesh60)  
 - 💼 **LinkedIn:** [Madhesh_T](https://linkedin.com/in/madhesh77)  
 - ✉️ **Email:** madheshsasikala81@gmail.com  
@@ -117,6 +115,6 @@ This keeps me accountable — and helps others learn from the journey.
 
 ---
 
-### 🎯 Final Note
+### Final Note
 I build systems that prioritize **speed**, **clarity**, and **impact**.  
 If you're solving a tough problem — I want in.
