@@ -3,7 +3,8 @@
 # 👋 Hi there, I'm **Madhesh**
 
 ### Information Technology Student
-AI/ML • Development  • DevOps • Blockchain 
+AI/ML • Development  • DevOps • Blockchain
+
 Engineering end-to-end solutions across **AI**, **automation**, **web development**, and **DevOps**.  
 Deeply focused on building systems that are **fast**, **scalable**, and **production-ready**.
 
@@ -12,11 +13,12 @@ Learning in public. Shipping often. Exploring open-source.
 ---
 
 ##  What I'm Doing Right Now
-- Leveling up in **DSA**, **Java**, algorithms, and backend engineering  
-- Building AI automation workflows using agents & prompt-driven pipelines  
-- Developing full-stack systems using React, Node.js, Express, MongoDB  
-- Architecting DevOps pipelines & containerized deployments   
+
+- Building AI automation workflows using agents & prompt-driven pipelines
+- Architecting DevOps pipelines & containerized deployments
 - Active in open-source communities, contributing small tools & utilities  
+- Developing full-stack systems using React, Node.js, Express, MongoDB
+- Leveling up in **DSA**, **Java**, algorithms, and backend engineering  
 
 ---
 
@@ -39,36 +41,27 @@ Learning in public. Shipping often. Exploring open-source.
 ---
 
 ## **DevOps & Cloud**
-<img height="45" src="https://img.icons8.com/color/48/docker.png"/>  <img height="50" src="https://img.icons8.com/color/48/kubernetes.png"/><img height="50" src="https://img.icons8.com/color/48/github.png"/><img height="50" src="https://img.icons8.com/ios-filled/50/000000/argo.png"/><img height="50" src="https://img.icons8.com/color/48/npm.png"/><img height="45" src="https://img.icons8.com/color/48/git.png"/>  <img height="45" src="https://img.icons8.com/color/48/console.png"/>  <img height="45" src="https://img.icons8.com/color/48/amazon-web-services.png"/>  
+<img height="45" src="https://img.icons8.com/color/48/docker.png"/>  <img height="50" src="https://img.icons8.com/color/48/kubernetes.png"/><img height="50" src="https://img.icons8.com/color/48/github.png"/><img height="50" src="https://img.icons8.com/color/48/npm.png"/><img height="45" src="https://img.icons8.com/color/48/git.png"/>  <img height="45" src="https://img.icons8.com/color/48/console.png"/>  <img height="45" src="https://img.icons8.com/color/48/amazon-web-services.png"/>  
 
 - Docker containers & images  
 - CI/CD fundamentals  
 - Git branching workflows  
 - API testing with Postman  
-- Local builds using Pop!_OS + Linux utilities  
+- Linux utilities
+- Cloud Computing
 
 ---
 
 ## **Blockchain Work**
-- Solidity smart contracts (loan requests, events, eligibility rules)  
+- Solidity smart contracts
 - Hardhat development environment  
 - IPFS for document proofs  
-- Building a no-KYC loan system (hash-based verification & FE/BE integration)  
 - Working with RPC nodes & automated scripts  
 - Understanding Ethereum development workflows  
 
 ---
 
 ## Featured Projects
-
-
-### **Polkadot Multi-Chain Data Ingestion & Monitoring System**  
-- Connects to multiple blockchains using RPC nodes  
-- Automatically listens to **new blocks, events, and on-chain messages**   
-- Real-time **event-driven workflows** for alerts & automation  
-- Rust + Node.js backend for fast processing  
-- Beautiful **frontend dashboard** to visualize chain activity  
-- Easy deployment with Docker + scripts included
 
 ###  **Baseline Browser Checker (VS Code Extension)**  
 - Highlights non-baseline HTML/CSS/JS features  
