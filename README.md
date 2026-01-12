@@ -1,10 +1,9 @@
-![Modern Developer Banner](https://github.com/user-attachments/assets/78e5741c-a38d-4dfa-85a9-25a5b423c38f)
+<img align="top" width="1000" height="500" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 # 👋 Hi there, I'm **Madhesh**
 
 ### Information Technology Student
-AI/ML • Development  • DevOps • Blockchain <img align="right" width="360" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
+AI/ML • Development  • DevOps • Blockchain 
 Engineering end-to-end solutions across **AI**, **automation**, **web development**, and **DevOps**.  
 Deeply focused on building systems that are **fast**, **scalable**, and **production-ready**.
 
