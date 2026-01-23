@@ -1,5 +1,3 @@
-<img align="top" width="1000" height="500" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
 # 👋 Hi there, I'm **Madhesh**
 
 ### Information Technology Student
@@ -9,6 +7,10 @@ Engineering end-to-end solutions across **AI**, **automation**, **web developmen
 Deeply focused on building systems that are **fast**, **scalable**, and **production-ready**.
 
 Learning in public. Shipping often. Exploring open-source.
+
+---
+
+<img align="top" width="1000" height="500" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ---
 
