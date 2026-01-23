@@ -16,7 +16,7 @@ Learning in public. Shipping often. Exploring open-source.
 
 ##  What I'm Doing Right Now
 
-- Building AI automation workflows using agents & prompt-driven pipelines
+- Building AI automation workflows using agents & ML pipelines
 - Architecting DevOps pipelines & containerized deployments
 - Active in open-source communities, contributing small tools & utilities  
 - Developing full-stack systems using React, Node.js, Express, MongoDB
@@ -69,18 +69,6 @@ Learning in public. Shipping often. Exploring open-source.
 - Highlights non-baseline HTML/CSS/JS features  
 - In-editor diagnostics  
 - Aiming to support developers targeting modern compatibility  
-
----
-
-##  What i am building
-
-
-### 🔗 **Blockchain Loan Automation**  
-- Smart contracts for loan issue & status
-- Storing the document sin IFPS instead relying on old databases
-- Event-driven approval flow  
-- Frontend dashboard + backend validation
-- Solidity + Hardhat setup  
 
 ---
 
