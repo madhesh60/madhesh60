@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Madhesh**
 
 ### Information Technology Student
-AI/ML • Development  • DevOps • Blockchain
+AI/ML • Agentic AI • Development  • DevOps • Blockchain
 
 Engineering end-to-end solutions across **AI**, **automation**, **web development**, and **DevOps**.  
 Deeply focused on building systems that are **fast**, **scalable**, and **production-ready**.
