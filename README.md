@@ -6,7 +6,7 @@ AI/ML • Agentic AI • Development  • DevOps • Blockchain
 Engineering end-to-end solutions across **AI**, **automation**, **web development**, and **DevOps**.  
 Deeply focused on building systems that are **fast**, **scalable**, and **production-ready**.
 
-Learning in public. Shipping often. Exploring open-source.
+Learning in public. Exploring open-source.
 
 ---
 
@@ -54,21 +54,22 @@ Learning in public. Shipping often. Exploring open-source.
 
 ---
 
-## **Blockchain Work**
-- Solidity smart contracts
-- Hardhat development environment  
-- IPFS for document proofs  
-- Working with RPC nodes & automated scripts  
-- Understanding Ethereum development workflows  
-
----
-
 ## Featured Projects
 
+###  **SafeMint-QIEDEX – Trust-First Token Launchpad**  
+- Built a trust-first DeFi token launch platform enforcing mandatory liquidity locks and fair-launch rules to prevent scam tokens.
+- Added community governance workflows for proposal lifecycle visibility (Active / Passed) and protocol accountability. 
+
 ###  **Baseline Browser Checker (VS Code Extension)**  
+- Developed a browser extension scanning code for unsupported web features, improving code compliance by 45%.
 - Highlights non-baseline HTML/CSS/JS features  
 - In-editor diagnostics  
 - Aiming to support developers targeting modern compatibility  
+
+###  **CREO - AI Retail Creative Studio**  
+ - Built a compliance-first AI system to generate Tesco-ready retail creatives while enforcing strict brand and legal rules.
+ - Implemented a fail-fast validation engine to block forbidden claims, pricing errors, alcohol violations, and layout breaches,reducing rejection risk by 60%.
+ - Integrated computer vision to detect people and alcohol products, triggering mandatory Drinkaware compliance and use confirmation workflows and Designed an automated layout composer with safe-zone enforcement
 
 ---
 
