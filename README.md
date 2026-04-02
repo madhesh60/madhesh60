@@ -44,20 +44,6 @@ A compliance-first AI system for generating Tesco-ready retail creatives while e
 
 ---
 
-## Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhesh60&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/madheshcode7?theme=dark&font=Nokora&ext=activity" alt="LeetCode Stats" />
-</div>
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhesh77)
