@@ -1,103 +1,85 @@
-# 👋 Hi there, I'm **Madhesh**
+# Madhesh T
 
-### Information Technology Student
-AI/ML • Agentic AI • Development  • DevOps • Blockchain
+**Information Technology Student**
 
-Engineering end-to-end solutions across **AI**, **automation**, **web development**, and **DevOps**.  
-Deeply focused on building systems that are **fast**, **scalable**, and **production-ready**.
+AI/ML · Agentic AI · Full-Stack Development · DevOps · Blockchain
 
-Learning in public. Exploring open-source.
-
----
-
-<img align="top" width="1000" height="500" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+Engineering end-to-end solutions across AI, automation, web development, and DevOps.  
+Focused on building systems that are fast, scalable, and production-ready.
 
 ---
 
-##  What I'm Doing Right Now
-
-- Building AI automation workflows using agents & ML pipelines
-- Architecting DevOps pipelines & containerized deployments
-- Active in open-source communities, contributing small tools & utilities  
-- Developing full-stack systems using React, Node.js, Express, MongoDB
-- Leveling up in **DSA**, **Java**, algorithms, and backend engineering  
-
----
-
-#  Tech & Tools
-
-## **Languages**
-<img height="50" src="https://img.icons8.com/color/48/python.png"/> <img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/javascript.png"/>
+```
+  Local                          Remote
+    │                              │
+    │──────── git commit ─────────▶│
+    │                              │
+    │──────── git push ───────────▶│
+    │                              │
+    │◀──────── git pull ───────────│
+    │                              │
+    │◀──────── git merge ──────────│
+```
 
 ---
 
-## **Frameworks / Libraries**
-- React.js  
-- Node.js  
-- Express.js  
-- MongoDB  
-- Socket.io  
-- Firebase  
-- Java + OOP  
+## Current Focus
+
+- Developing AI automation workflows using agents and ML pipelines
+- Architecting DevOps pipelines and containerized deployments
+- Contributing to open-source projects and communities
+- Building full-stack systems with React, Node.js, Express, and MongoDB
+- Advancing proficiency in data structures, algorithms, and backend engineering
 
 ---
 
-## **DevOps & Cloud**
-<img height="45" src="https://img.icons8.com/color/48/docker.png"/>  <img height="50" src="https://img.icons8.com/color/48/kubernetes.png"/><img height="50" src="https://img.icons8.com/color/48/github.png"/><img height="50" src="https://img.icons8.com/color/48/npm.png"/><img height="45" src="https://img.icons8.com/color/48/git.png"/>  <img height="45" src="https://img.icons8.com/color/48/console.png"/>  <img height="45" src="https://img.icons8.com/color/48/amazon-web-services.png"/>  
+## Technologies
 
-- Docker containers & images  
-- CI/CD fundamentals  
-- Git branching workflows  
-- API testing with Postman  
-- Linux utilities
-- Cloud Computing
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-###  **SafeMint-QIEDEX – Trust-First Token Launchpad**  
-- Built a trust-first DeFi token launch platform enforcing mandatory liquidity locks and fair-launch rules to prevent scam tokens.
-- Added community governance workflows for proposal lifecycle visibility (Active / Passed) and protocol accountability. 
+**SafeMint-QIEDEX — Trust-First Token Launchpad**  
+A DeFi token launch platform enforcing mandatory liquidity locks and fair-launch rules to prevent fraudulent tokens. Includes community governance workflows for proposal lifecycle visibility and protocol accountability.
 
-###  **Baseline Browser Checker (VS Code Extension)**  
-- Developed a browser extension scanning code for unsupported web features, improving code compliance by 45%.
-- Highlights non-baseline HTML/CSS/JS features  
-- In-editor diagnostics  
-- Aiming to support developers targeting modern compatibility  
+**Baseline Browser Checker — VS Code Extension**  
+A browser extension that scans code for unsupported web features, improving compatibility compliance by 45%. Provides in-editor diagnostics highlighting non-baseline HTML, CSS, and JavaScript features.
 
-###  **CREO - AI Retail Creative Studio**  
- - Built a compliance-first AI system to generate Tesco-ready retail creatives while enforcing strict brand and legal rules.
- - Implemented a fail-fast validation engine to block forbidden claims, pricing errors, alcohol violations, and layout breaches,reducing rejection risk by 60%.
- - Integrated computer vision to detect people and alcohol products, triggering mandatory Drinkaware compliance and use confirmation workflows and Designed an automated layout composer with safe-zone enforcement
+**CREO — AI Retail Creative Studio**  
+A compliance-first AI system for generating Tesco-ready retail creatives while enforcing brand and legal standards. Integrates computer vision for alcohol and people detection, triggering mandatory compliance workflows. Reduced rejection risk by 60%.
 
 ---
 
-#  Learning in Public
-I consistently document progress across:
-- AI workflow engineering  
-- DevOps practices  
-- Distributed systems  
-- Blockchain fundamentals  
-- Data structures & algorithms  
+## LeetCode
 
-This keeps me accountable — and helps others learn from the journey.
-
----
-
-#  LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/madheshcode7?theme=dark&font=Nokora&ext=activity)
 
 ---
 
-## Connect With Me
-- 🔗 **GitHub:** [madhesh60](https://github.com/madhesh60)  
-- 💼 **LinkedIn:** [Madhesh_T](https://linkedin.com/in/madhesh77)  
-- ✉️ **Email:** madheshsasikala81@gmail.com  
-- 📱 **Phone:** +91 63696 29476
+## Connect
 
----
-
-### Final Note
-I build systems that prioritize **speed**, **clarity**, and **impact**.  
-If you're solving a tough problem — I want in.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhesh77)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/madhesh60)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:madheshsasikala81@gmail.com)
