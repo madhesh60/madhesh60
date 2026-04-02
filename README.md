@@ -1,11 +1,19 @@
-# Madhesh T
+# Hello! I am Madhesh
 
 **Information Technology Student**
 
-AI/ML · Agentic AI · Full-Stack Development · DevOps · Blockchain
+AI/ML · Agentic AI · Development · DevOps
 
 Engineering end-to-end solutions across AI, automation, web development, and DevOps.  
 Focused on building systems that are fast, scalable, and production-ready.
+
+##  What I'm Doing Right Now
+
+- Building AI automation workflows using agents & ML pipelines
+- Architecting DevOps pipelines & containerized deployments
+- Active in open-source communities, contributing small tools & utilities  
+- Developing full-stack systems using React, Node.js, Express, MongoDB
+- Leveling up in **DSA**, **Java**, algorithms, and backend engineering
 
 ---
 
